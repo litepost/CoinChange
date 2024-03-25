@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Hackerrank: The Coin Change Problem
 Console.WriteLine("Hello, World!");
